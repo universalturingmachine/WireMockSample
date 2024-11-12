@@ -1,0 +1,2 @@
+# WireMockSample
+WireMock example code
